@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccoff&layout=compact)](https://github.com/ccoff?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccoff&layout=compact&exclude_repo=ccoff.github.io)](https://github.com/ccoff?tab=repositories)
 
 <!--
 ### Hi there 👋
