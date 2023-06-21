@@ -1,3 +1,4 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ccoff)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccoff&layout=compact&exclude_repo=ccoff.github.io)](https://github.com/ccoff?tab=repositories)
 
